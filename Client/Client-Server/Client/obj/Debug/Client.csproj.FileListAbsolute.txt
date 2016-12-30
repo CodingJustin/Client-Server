@@ -1,0 +1,6 @@
+C:\Users\zts\Desktop\Client-Server\Client\Client-Server\Client\bin\Debug\Client.exe.config
+C:\Users\zts\Desktop\Client-Server\Client\Client-Server\Client\bin\Debug\Client.exe
+C:\Users\zts\Desktop\Client-Server\Client\Client-Server\Client\bin\Debug\Client.pdb
+C:\Users\zts\Desktop\Client-Server\Client\Client-Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\zts\Desktop\Client-Server\Client\Client-Server\Client\obj\Debug\Client.exe
+C:\Users\zts\Desktop\Client-Server\Client\Client-Server\Client\obj\Debug\Client.pdb
